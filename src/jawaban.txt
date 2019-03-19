@@ -1,0 +1,11 @@
+Tulis jawaban no 6 disini:
+NIM: 1607262
+NAMA: Yola Nanda Sekar Prima
+
+1. kegiatan adegan dibuat di gameEngine semua sehingga sulit dibaca
+2. barang seharusnya bisa dipilih sehingga barang hanya ada jika dibutuhkan
+3. barang sesudah dipakai sebaiknya langsung hilang
+
+
+
+
